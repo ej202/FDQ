@@ -1,0 +1,8 @@
+[04-Mar-2023 23:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mindfulscience/public_html/wp-content/plugins/fdq-ms-courses/fdq-ms-courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mindfulscience/public_html/wp-content/plugins/fdq-ms-courses/fdq-ms-courses.php on line 13
+[17-Aug-2023 04:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mindfulscience/public_html/wp-content/plugins/fdq-ms-courses/fdq-ms-courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mindfulscience/public_html/wp-content/plugins/fdq-ms-courses/fdq-ms-courses.php on line 13
